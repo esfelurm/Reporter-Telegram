@@ -1,4 +1,4 @@
-import time,os
+import time,os,platform
 try:from prettytable import PrettyTable
 except:os.system("pip install prettytable")
 rd, gn, lgn, yw, lrd, be, pe = '\033[00;31m', '\033[00;32m', '\033[01;32m', '\033[01;33m', '\033[01;31m', '\033[94m', '\033[01;35m'
@@ -7,7 +7,11 @@ def re(text):
     for char in text:
         print(char, end='', flush=True)
         time.sleep(0.001)  
- 
+if 'Windows' in platform.uname():
+    from colorama import init
+    init()
+else:
+    pass
 banner = f"""
                                                                  
 {k}                                                                
