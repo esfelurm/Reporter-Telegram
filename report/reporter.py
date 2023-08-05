@@ -30,7 +30,7 @@ def clear():
     	os.system("cls")
     elif 'Windows' not in platform.uname():
         os.system("clear")
-
+clear()
 re(f"""{g}
   _____      __      _   _________     ____    
  (_   _)    /  \    / ) (_   _____)   / __ \   
