@@ -25,7 +25,7 @@ t.add_row([f'{lgn}9{lrd}',f'{gn}Report Illegal Drugs{lrd}'])
 t.add_row([f'{lgn}10{lrd}',f'{gn}Report Personal Details{lrd}'])
 def clear():
     if 'Windows' in platform.uname():
-    	try:from colorama import init
+        try:from colorama import init
         except:os.system("pip install colorama")
         init()
         os.system("cls")
