@@ -40,4 +40,21 @@ If installed , pip install {name}
 - prettytable
 - colorama (Required for Windows)
 ------------------------------------
+
+## Support from
+- Linux
+- Windows
+- Termux
+
+## Install :
+
+```
+git clone https://github.com/esfelurm/Reporter-Telegram
+cd Reporter-Telegram
+python main.py
+```
+### this 
+
+If you come across this text, the tool must be logged in once with your account in order to be able to run, enter your number and then enter the account login code. 👇🏻
+
 Goodbye my friends 
