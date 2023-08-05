@@ -20,6 +20,7 @@
 
 ### Report Channel
 <img src="/report/Screenshot_20230805-113258_Pydroid 3.jpg">
+
 ### Report Group [updating]
 - It is currently being updated
 
@@ -29,3 +30,14 @@
 - Report any violation you see accordingly
 - Any crime committed with this tool is the responsibility of the user
 - This is a trial version! 
+
+## Description
+
+### Modules used: 
+If installed , pip install {name}
+------------------------------------
+- telethon
+- prettytable
+- colorama (Required for Windows)
+------------------------------------
+Goodbye my friends 
