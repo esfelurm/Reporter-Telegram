@@ -5,16 +5,16 @@
 <img src="/report/Screenshot_20230805-113406_Pydroid 3.jpg">
 
 #### This tool uses the following methods to report :
-* Spam
-* Pornography
-* Violence
-* Child Abuse
-* Other
-* CopyRith
-* Fake
-* Geo Irrelevant
-* Illegal Drugs
-* Personal Details
+* Spam 🔆
+* Pornography 🔆
+* Violence 🔆
+* Child Abuse 🔆
+* Other 🔆
+* CopyRith 🔆
+* Fake 🔆
+* Geo Irrelevant 🔆
+* Illegal Drugs 🔆
+* Personal Details 🔆
 ### Report Account
 <img src="/report/Screenshot_20230805-110416_Pydroid 3.jpg">
 
@@ -26,25 +26,25 @@
 
 ## tip
 
-- If you accidentally report something, your account will be reported! 
+- If you accidentally report something, your account will be reported! ❌
 - Report any violation you see accordingly
-- Any crime committed with this tool is the responsibility of the user
-- This is a trial version! 
+- Any crime committed with this tool is the responsibility of the user ❌
+- This is a trial version! ♨️
 
 ## Description
 
 ### Modules used: 
 If installed , pip install {name}
 ------------------------------------
-- telethon
-- prettytable
-- colorama (Required for Windows)
+- telethon 🔰
+- prettytable 🔰
+- colorama (Required for Windows) 🤓
 ------------------------------------
 
 ## Support from
-- Linux
-- Windows
-- Termux
+- Linux ✅
+- Windows ✅
+- Termux ✅
 
 ## Install :
 
