@@ -25,9 +25,9 @@ t.add_row([f'{lgn}9{lrd}',f'{gn}Reporter Personal Details{lrd}'])
 def clear():
     if 'Windows' in platform.uname():
     	try:from colorama import init
-        except:os.system("pip install colorama")
-        init()
-        os.system("cls")
+    	except:os.system("pip install colorama")
+    	init()
+    	os.system("cls")
     elif 'Windows' not in platform.uname():
         os.system("clear")
 
