@@ -56,6 +56,6 @@ python main.py
 ### this 
 
 If you come across this text, the tool must be logged in once with your account in order to be able to run, enter your number and then enter the account login code. 👇🏻
-<img src="/report/20230805_120226.jpg">
+<img src="+917438015743">
 
 Goodbye my friends 
